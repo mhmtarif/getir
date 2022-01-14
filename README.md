@@ -1,4 +1,4 @@
 
 # Endpoints
-/in-memory
-/mongo
+* /in-memory
+* /mongo
