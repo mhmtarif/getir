@@ -1,0 +1,4 @@
+
+# Endpoints
+/in-memory
+/mongo
